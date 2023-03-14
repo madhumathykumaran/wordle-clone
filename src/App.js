@@ -73,14 +73,14 @@ function App() {
                   </ul>
                   
                 </div>
-                <div className="offcanvas-footer">
+                {/* <div className="offcanvas-footer">
                   <small className="copyright text-center">
                     Made with ❤️ | Website developed by S Subodh
                   </small><br></br>
                   <small>
                     This website is developed only for Educational/Learning purpose
                   </small>
-                </div>
+                </div> */}
               </div>
             </div>
           </nav> 
