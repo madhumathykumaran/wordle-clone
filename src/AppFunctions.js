@@ -6,7 +6,7 @@ import statsjson from './stats.json';
 
   let CurBox=0;
   let CurRow=1;
-  let guessword="APPLE";//temp
+  let guessword="APPLES";//temp
   var colorMap = new Map();
   //export var statistics={"TotalPlayed":5,"Win":3,"Loss":2,"Streak":1,"MaxStreak":1,"Guess":[0,2,0,1,0,0]};
 
